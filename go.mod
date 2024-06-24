@@ -1,8 +1,6 @@
 module github.com/armanzhankin/echo-htmx
 
 go 1.22.0
-<<<<<<< Updated upstream
-=======
 
 require (
 	github.com/jackc/pgx/v5 v5.6.0
@@ -29,4 +27,3 @@ require (
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 )
->>>>>>> Stashed changes
